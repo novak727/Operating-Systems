@@ -5,7 +5,7 @@ This repository holds all projects from my Operating Systems class. Currently a 
 
 [sysprog1.cpp](https://github.com/novak727/Operating-Systems/blob/main/sysprog1.cpp) provides basic system information.
 
-unash.cpp is a (very) basic shell.
+[unash.cpp](https://github.com/novak727/Operating-Systems/blob/main/unash.cpp) is a (very) basic shell.
 
 The C++ programs were written with OpenBSD in mind, specifically 7.8. These programs may not run on any other OS without modifications.
 
