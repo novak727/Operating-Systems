@@ -1,5 +1,5 @@
 # Operating Systems
-This repository holds all projects from my Operating Systems class. Currently a WIP as I am currently still taking this course.
+This repository holds the projects from my Operating Systems class.
 
 [exercise-1](https://github.com/novak727/Operating-Systems/tree/main/exercise-1) was a basic exercise for being able to SSH into our CS server and some basic UNIX commands, including editing a file through the terminal.
 
@@ -7,7 +7,7 @@ This repository holds all projects from my Operating Systems class. Currently a 
 
 [unash.cpp](https://github.com/novak727/Operating-Systems/blob/main/unash.cpp) is a (very) basic shell.
 
-The C++ programs were written with OpenBSD in mind, specifically 7.8. These programs may not run on any other OS without modifications.
+The programs were written for OpenBSD, specifically 7.8. These programs may not run on any other OS without modifications.
 
 # C++ Installation and Usage
 The programs in this repository can be executed using the C++ language and the g++ compiler.
